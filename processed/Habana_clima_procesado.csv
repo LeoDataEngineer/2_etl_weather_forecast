@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Partly Cloudy ,22.8,0,0,91.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,0,Light rain shower,23.8,1,100,94.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,0,Partly Cloudy ,23.2,0,0,91.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,1,Partly Cloudy ,22.6,0,0,90.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,1,Mist,23.5,0,0,95.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,1,Moderate rain at times,22.7,1,100,91.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,2,Partly Cloudy ,22.3,0,0,94.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,2,Mist,23.2,0,0,96.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,2,Clear ,22.2,0,0,94.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,3,Mist,23.1,0,0,97.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,3,Mist,22.1,0,0,96.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,3,Partly Cloudy ,22.3,0,0,96.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,4,Patchy light rain,22.0,1,100,97.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,4,Mist,22.4,0,0,96.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,4,Fog,22.8,0,0,98.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,5,Fog,21.9,0,0,97.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,5,Mist,22.3,0,0,95.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,5,Fog,22.6,0,0,97.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,6,Mist,22.0,0,0,97.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,6,Fog,22.5,0,0,97.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,6,Mist,22.6,0,0,96.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,7,Fog,23.3,0,0,97.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,7,Partly Cloudy ,23.9,0,0,94.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,7,Mist,22.3,0,0,97.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,8,Fog,24.1,0,0,89.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,8,Partly Cloudy ,25.8,0,0,83.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,8,Mist,22.8,0,0,96.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,9,Fog,24.9,0,0,85.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,9,Sunny,27.7,0,0,70.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,9,Overcast ,23.7,0,0,94.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,10,Partly Cloudy ,27.4,0,0,88.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,10,Sunny,27.7,0,0,81.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,10,Sunny,29.7,0,0,60.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,11,Sunny,30.3,0,0,64.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,11,Sunny,30.4,0,0,69.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,11,Partly Cloudy ,31.1,0,0,53.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,12,Sunny,32.5,0,0,57.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,12,Sunny,32.7,0,0,55.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,12,Partly cloudy,29.1,0,0,66.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,13,Sunny,32.7,0,0,47.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,13,Sunny,32.5,0,0,51.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,13,Partly Cloudy ,32.2,0,0,48.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,14,Partly Cloudy ,32.0,0,0,54.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,14,Partly Cloudy ,32.1,0,0,51.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,14,Cloudy ,31.9,0,0,49.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,15,Cloudy ,31.2,0,0,56.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,15,Cloudy ,31.1,0,0,52.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,15,Cloudy ,31.1,0,0,53.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,16,Thundery outbreaks in nearby,30.1,0,0,58.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,16,Thundery outbreaks in nearby,29.6,0,0,58.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,16,Cloudy ,29.5,0,0,55.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,17,Partly Cloudy ,29.0,0,0,65.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,17,Cloudy ,28.1,0,0,66.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,17,Thundery outbreaks in nearby,28.2,0,0,69.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,18,Cloudy ,26.9,0,0,72.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,18,Thundery outbreaks in nearby,26.9,0,0,75.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,18,Partly Cloudy ,27.7,0,0,71.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,19,Cloudy ,26.4,0,0,79.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,19,Sunny,25.5,0,0,77.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,19,Partly Cloudy ,26.0,0,0,81.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,20,Clear ,25.4,0,0,85.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,20,Moderate rain at times,25.4,1,100,85.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,20,Cloudy ,25.3,0,0,88.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,21,Cloudy ,24.7,0,0,93.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,21,Clear ,24.5,0,0,88.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,21,Moderate rain at times,25.0,1,100,87.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,22,Partly Cloudy ,23.8,0,0,92.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,22,Patchy light rain,24.2,1,100,93.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,22,Light rain shower,24.6,1,100,88.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-31,23,Clear ,24.2,0,0,81.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-03-30,23,Partly Cloudy ,23.6,0,0,92.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16
+2025-04-01,23,Light rain shower,23.6,1,100,92.0,Habana Libre,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16

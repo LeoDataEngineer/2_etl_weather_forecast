@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Clear ,18.7,0,0,87.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,0,Partly Cloudy ,20.3,0,0,72.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,0,Clear ,19.9,0,0,68.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,1,Clear ,18.4,0,0,87.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,1,Patchy rain nearby,20.2,1,79,72.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,1,Clear ,19.4,0,0,69.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,2,Clear ,18.2,0,0,88.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,2,Clear ,20.0,0,0,73.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,2,Clear ,18.9,0,0,71.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,3,Clear ,19.9,0,0,73.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,3,Clear ,18.6,0,0,72.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,3,Clear ,18.0,0,0,88.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,4,Clear ,18.5,0,0,72.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,4,Clear ,17.9,0,0,86.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,4,Partly Cloudy ,19.5,0,0,75.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,5,Clear ,18.6,0,0,72.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,5,Clear ,17.7,0,0,85.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,5,Partly Cloudy ,18.9,0,0,79.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,6,Clear ,19.4,0,0,73.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,6,Partly Cloudy ,19.7,0,0,79.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,6,Clear ,18.6,0,0,83.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,7,Partly Cloudy ,21.6,0,0,72.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,7,Sunny,21.1,0,0,75.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,7,Sunny,22.2,0,0,64.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,8,Partly Cloudy ,22.1,0,0,69.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,8,Sunny,23.3,0,0,64.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,8,Sunny,24.5,0,0,57.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,9,Sunny,22.8,0,0,66.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,9,Sunny,25.2,0,0,57.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,9,Sunny,26.1,0,0,53.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,10,Sunny,27.2,0,0,49.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,10,Sunny,25.2,0,0,55.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,10,Sunny,26.6,0,0,54.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,11,Sunny,27.7,0,0,44.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,11,Partly Cloudy ,28.1,0,0,46.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,11,Patchy rain nearby,27.5,1,83,51.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,12,Cloudy ,28.8,0,0,43.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,12,Sunny,28.4,0,0,43.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,12,Patchy rain nearby,27.5,1,100,50.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,13,Sunny,28.9,0,0,43.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,13,Partly Cloudy ,28.9,0,0,43.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,13,Partly cloudy,28.4,0,0,48.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,14,Partly Cloudy ,28.8,0,0,43.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,14,Partly Cloudy ,29.1,0,0,42.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,14,Partly Cloudy ,24.7,0,0,66.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,15,Partly Cloudy ,26.8,0,0,53.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,15,Partly Cloudy ,24.4,0,0,67.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,15,Partly Cloudy ,28.5,0,0,44.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,16,Partly Cloudy ,23.3,0,0,71.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,16,Partly Cloudy ,24.8,0,0,61.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,16,Partly Cloudy ,25.4,0,0,55.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,17,Partly Cloudy ,22.5,0,0,72.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,17,Partly Cloudy ,24.6,0,0,57.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,17,Sunny,23.4,0,0,65.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,18,Partly Cloudy ,24.0,0,0,58.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,18,Sunny,22.8,0,0,64.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,18,Partly Cloudy ,22.3,0,0,70.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,19,Partly Cloudy ,22.3,0,0,67.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,19,Clear ,23.6,0,0,59.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,19,Clear ,22.6,0,0,64.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,20,Clear ,22.5,0,0,62.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,20,Clear ,22.2,0,0,64.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,20,Partly Cloudy ,22.4,0,0,65.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,21,Partly Cloudy ,22.4,0,0,64.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,21,Clear ,21.7,0,0,64.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,21,Clear ,21.3,0,0,67.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,22,Clear ,21.3,0,0,67.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,22,Clear ,22.0,0,0,64.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,22,Partly Cloudy ,20.9,0,0,69.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-31,23,Patchy rain nearby,20.6,0,63,70.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-03-30,23,Clear ,21.1,0,0,65.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16
+2025-04-01,23,Clear ,20.9,0,0,64.0,Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16

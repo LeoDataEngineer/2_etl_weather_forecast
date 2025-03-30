@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Mist,10.3,0,0,94.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,0,Light rain shower,10.6,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,0,Mist,10.9,1,85,94.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,1,Patchy rain nearby,10.1,1,74,96.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,1,Light rain shower,10.1,1,100,97.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,1,Mist,10.5,1,100,96.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,2,Mist,10.4,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,2,Patchy light drizzle,10.4,1,100,96.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,2,Mist,10.5,1,74,96.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,3,Light rain shower,10.3,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,3,Mist,10.5,0,68,96.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,3,Patchy light drizzle,10.9,1,100,94.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,4,Fog,10.1,1,85,97.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,4,Patchy rain nearby,11.1,1,100,93.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,4,Mist,10.1,0,54,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,5,Mist,10.1,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,5,Patchy light drizzle,10.7,1,100,94.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,5,Mist,9.8,1,75,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,6,Patchy rain nearby,10.1,1,100,94.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,6,Mist,9.9,0,0,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,6,Light rain shower,10.5,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,7,Patchy rain nearby,10.7,0,64,93.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,7,Patchy light drizzle,11.0,1,100,93.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,7,Patchy rain nearby,10.5,1,100,94.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,8,Patchy rain nearby,11.9,1,84,89.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,8,Patchy rain nearby,12.4,1,100,89.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,8,Patchy rain nearby,11.5,0,68,91.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,9,Patchy rain nearby,13.0,1,100,83.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,9,Patchy rain nearby,13.3,1,100,84.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,9,Patchy rain nearby,12.4,1,100,87.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,10,Light rain shower,13.6,1,100,81.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,10,Patchy rain nearby,14.3,1,100,77.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,10,Patchy rain nearby,15.1,1,100,78.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,11,Patchy rain nearby,15.1,1,100,73.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,11,Patchy rain nearby,14.8,1,100,75.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,11,Patchy rain nearby,16.3,1,100,75.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,12,Patchy rain nearby,15.7,1,100,72.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,12,Patchy rain nearby,16.0,1,100,69.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,12,Patchy light rain in area with thunder,16.6,1,100,74.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,13,Patchy rain nearby,15.5,1,100,72.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,13,Patchy rain nearby,15.6,1,100,74.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,13,Patchy light rain in area with thunder,16.0,1,100,77.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,14,Light rain shower,14.9,1,100,79.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,14,Patchy rain nearby,15.0,1,100,77.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,14,Light rain shower,14.6,1,100,85.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,15,Patchy rain nearby,14.0,1,100,85.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,15,Light rain shower,13.5,1,100,88.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,15,Patchy rain nearby,14.1,1,100,83.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,16,Light rain shower,12.9,1,100,91.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,16,Light rain shower,12.8,1,100,89.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,16,Light rain shower,13.3,1,100,87.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,17,Light rain shower,12.0,1,100,94.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,17,Light rain shower,12.1,1,100,91.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,17,Patchy light drizzle,11.1,1,100,91.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,18,Light rain shower,11.1,1,100,92.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,18,Light rain shower,10.7,1,100,93.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,18,Light rain shower,11.1,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,19,Light rain shower,10.6,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,19,Light rain shower,10.9,1,100,92.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,19,Light drizzle,11.0,1,100,93.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,20,Light rain shower,10.8,1,100,92.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,20,Patchy light drizzle,11.1,1,100,93.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,20,Light rain,10.4,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,21,Light drizzle,10.4,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,21,Patchy rain nearby,10.9,1,100,91.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,21,Light rain shower,10.7,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,22,Patchy rain nearby,11.0,1,100,90.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,22,Light rain shower,10.6,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,22,Light rain shower,10.3,1,100,96.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-31,23,Light rain shower,10.5,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-03-30,23,Light drizzle,10.8,1,100,95.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16
+2025-04-01,23,Patchy rain nearby,10.5,1,100,93.0,Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16

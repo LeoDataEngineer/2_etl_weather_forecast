@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Partly Cloudy ,22.6,0,0,94.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,0,Partly Cloudy ,23.1,0,0,83.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,0,Partly Cloudy ,22.8,0,0,90.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,1,Cloudy ,22.7,0,0,94.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,1,Partly Cloudy ,23.1,0,0,83.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,1,Partly Cloudy ,22.5,0,0,91.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,2,Partly Cloudy ,22.6,0,0,95.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,2,Partly Cloudy ,22.8,0,0,84.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,2,Partly Cloudy ,22.4,0,0,92.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,3,Partly Cloudy ,22.5,0,0,88.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,3,Partly Cloudy ,22.4,0,0,91.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,3,Partly Cloudy ,22.5,0,0,94.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,4,Partly Cloudy ,22.4,0,0,92.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,4,Cloudy ,22.6,0,0,93.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,4,Partly Cloudy ,22.3,0,0,90.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,5,Partly Cloudy ,22.4,0,0,92.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,5,Partly Cloudy ,22.6,0,0,92.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,5,Partly Cloudy ,22.4,0,0,92.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,6,Partly Cloudy ,22.2,0,0,91.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,6,Partly Cloudy ,22.6,0,0,90.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,6,Partly Cloudy ,22.7,0,0,92.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,7,Partly Cloudy ,22.8,0,0,90.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,7,Partly Cloudy ,23.0,0,0,91.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,7,Partly Cloudy ,22.8,0,0,93.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,8,Partly Cloudy ,24.3,0,0,89.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,8,Partly Cloudy ,24.1,0,0,87.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,8,Sunny,23.9,0,0,87.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,9,Partly Cloudy ,25.7,0,0,73.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,9,Sunny,25.5,0,0,78.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,9,Partly Cloudy ,25.0,0,0,81.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,10,Sunny,26.5,0,0,69.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,10,Partly Cloudy ,27.2,0,0,65.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,10,Sunny,28.4,0,0,71.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,11,Sunny,28.5,0,0,58.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,11,Sunny,27.7,0,0,58.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,11,Sunny,28.9,0,0,63.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,12,Sunny,28.6,0,0,55.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,12,Sunny,29.4,0,0,52.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,12,Partly cloudy,30.3,0,0,62.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,13,Sunny,30.1,0,0,50.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,13,Partly Cloudy ,29.0,0,0,54.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,13,Cloudy ,27.9,0,0,70.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,14,Partly Cloudy ,28.8,0,0,53.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,14,Sunny,29.5,0,0,47.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,14,Light rain shower,28.0,1,100,73.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,15,Partly Cloudy ,28.4,0,0,59.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,15,Partly Cloudy ,27.7,0,0,68.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,15,Partly Cloudy ,28.7,0,0,57.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,16,Partly Cloudy ,26.6,0,0,69.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,16,Partly Cloudy ,27.9,0,0,62.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,16,Partly Cloudy ,27.8,0,0,62.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,17,Light rain shower,25.2,1,100,81.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,17,Cloudy ,26.5,0,0,67.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,17,Cloudy ,27.1,0,0,64.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,18,Moderate rain at times,25.5,1,100,80.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,18,Cloudy ,26.4,0,0,71.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,18,Overcast ,24.5,0,0,88.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,19,Cloudy ,24.0,0,0,88.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,19,Moderate rain at times,24.5,1,100,86.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,19,Cloudy ,25.8,0,0,75.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,20,Patchy light rain,24.0,1,100,92.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,20,Clear ,24.9,0,0,78.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,20,Partly Cloudy ,23.9,0,0,88.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,21,Partly Cloudy ,23.7,0,0,88.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,21,Patchy rain nearby,23.3,1,100,85.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,21,Clear ,24.3,0,0,80.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,22,Patchy rain nearby,22.9,1,100,85.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,22,Partly Cloudy ,23.4,0,0,88.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,22,Clear ,23.1,0,0,81.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-31,23,Patchy rain nearby,23.1,0,63,86.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-03-30,23,Partly Cloudy ,23.1,0,0,90.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16
+2025-04-01,23,Clear ,23.1,0,0,82.0,Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16

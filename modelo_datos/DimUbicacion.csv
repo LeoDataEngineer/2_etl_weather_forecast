@@ -1,0 +1,21 @@
+Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local,ID_Ubicacion
+Asuncion,Central,Paraguay,-25.2667,-57.6667,2025-03-30 13:16,1
+Bogota,Cundinamarca,Colombia,4.6,-74.0833,2025-03-30 11:08,2
+Brasilia,Distrito Federal,Brazil,-15.7833,-47.9167,2025-03-30 13:16,3
+Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16,4
+Caracas,Distrito Federal,Venezuela,10.5,-66.9167,2025-03-30 12:14,5
+Ciudad de Guatemala,Guatemala,Guatemala,14.6211,-90.5269,2025-03-30 10:16,6
+La Habana,La Habana,Cuba,23.0139,-82.6094,2025-03-30 12:16,7
+La Paz,La Paz,Bolivia,-16.5,-68.15,2025-03-30 12:16,8
+Lima,Lima,Peru,-12.05,-77.05,2025-03-30 11:16,9
+Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16,10
+Ciudad de México,The Federal District,Mexico,19.4285,-99.1277,2025-03-30 10:16,11
+Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16,12
+Ciudad de Panamá,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13,13
+Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16,14
+Quito,Pichincha,Ecuador,-0.2167,-78.5,2025-03-30 11:16,15
+San Jose,San Jose,Costa Rica,9.9333,-84.0833,2025-03-30 10:23,16
+San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16,17
+Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16,18
+Santo Domingo,Distrito Nacional,Dominican Republic,18.4667,-69.9,2025-03-30 12:16,19
+Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16,20

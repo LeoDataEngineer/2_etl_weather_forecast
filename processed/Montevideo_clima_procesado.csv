@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Clear ,18.4,0,0,70.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,0,Patchy rain nearby,16.5,1,75,63.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,0,Light rain shower,21.9,1,100,84.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,1,Clear ,17.9,0,0,69.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,1,Cloudy ,16.7,0,0,59.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,1,Light rain shower,21.5,1,100,94.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,2,Clear ,17.5,0,0,67.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,2,Partly Cloudy ,16.6,0,0,58.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,2,Moderate or heavy rain shower,20.5,1,100,95.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,3,Partly Cloudy ,16.0,0,0,59.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,3,Light rain shower,19.4,1,100,93.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,3,Clear ,17.3,0,0,67.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,4,Light rain shower,18.8,1,100,92.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,4,Clear ,17.3,0,0,67.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,4,Partly Cloudy ,15.7,0,0,61.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,5,Light rain,18.0,1,100,91.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,5,Clear ,17.3,0,0,67.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,5,Clear ,15.5,0,0,62.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,6,Moderate rain,17.1,1,100,94.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,6,Clear ,15.3,0,0,63.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,6,Clear ,17.1,0,0,67.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,7,Sunny,15.2,0,0,64.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,7,Sunny,17.1,0,0,67.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,7,Light rain shower,17.0,1,100,92.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,8,Sunny,15.9,0,0,63.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,8,Sunny,18.0,0,0,62.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,8,Light rain shower,16.0,1,100,90.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,9,Sunny,17.3,0,0,57.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,9,Sunny,20.3,0,0,53.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,9,Patchy rain nearby,15.2,1,100,89.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,10,Light drizzle,15.6,1,100,79.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,10,Partly Cloudy ,18.0,0,0,56.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,10,Sunny,23.2,0,0,43.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,11,Patchy rain nearby,18.4,1,74,56.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,11,Patchy rain nearby,16.0,1,71,75.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,11,Sunny,25.8,0,0,38.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,12,Partly Cloudy ,16.8,0,0,71.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,12,Patchy rain nearby,18.6,0,61,58.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,12,Sunny,27.7,0,0,34.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,13,Cloudy ,18.8,0,0,57.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,13,Patchy rain nearby,17.9,1,74,65.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,13,Sunny,28.3,0,0,48.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,14,Patchy rain nearby,18.7,1,77,61.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,14,Cloudy ,19.2,0,0,56.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,14,Sunny,29.8,0,0,36.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,15,Patchy rain nearby,19.1,1,100,62.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,15,Sunny,30.1,0,0,42.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,15,Cloudy ,19.4,0,0,55.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,16,Partly Cloudy ,30.3,0,0,46.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,16,Patchy rain nearby,18.8,1,100,63.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,16,Cloudy ,20.0,0,0,52.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,17,Partly Cloudy ,30.2,0,0,48.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,17,Partly Cloudy ,20.3,0,0,52.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,17,Light rain shower,17.8,1,100,70.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,18,Partly Cloudy ,19.8,0,0,54.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,18,Patchy rain nearby,17.4,1,100,71.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,18,Partly Cloudy ,29.5,0,0,51.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,19,Partly Cloudy ,29.1,0,0,52.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,19,Partly Cloudy ,19.5,0,0,57.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,19,Patchy rain nearby,17.3,1,100,68.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,20,Clear ,18.9,0,0,60.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,20,Patchy rain nearby,17.2,1,75,65.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,20,Clear ,28.7,0,0,52.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,21,Clear ,28.3,0,0,53.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,21,Partly Cloudy ,18.9,0,0,61.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,21,Patchy rain nearby,17.2,0,69,61.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,22,Partly Cloudy ,18.8,0,0,64.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,22,Patchy light drizzle,27.2,1,100,55.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,22,Patchy rain nearby,16.9,1,100,66.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-31,23,Patchy rain nearby,16.6,1,100,68.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-03-30,23,Light rain shower,23.2,1,100,73.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16
+2025-04-01,23,Patchy rain nearby,18.5,1,73,68.0,Montevideo,Montevideo,Uruguay,-34.8581,-56.1708,2025-03-30 13:16

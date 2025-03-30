@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Clear ,19.7,0,0,75.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,0,Clear ,13.9,0,0,65.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,0,Light rain shower,14.8,1,100,93.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,1,Clear ,19.1,0,0,76.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,1,Clear ,13.2,0,0,64.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,1,Moderate or heavy rain shower,14.6,1,100,93.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,2,Clear ,18.8,0,0,73.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,2,Clear ,12.6,0,0,66.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,2,Light rain shower,14.3,1,100,95.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,3,Clear ,12.0,0,0,68.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,3,Light rain shower,14.0,1,100,94.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,3,Clear ,18.7,0,0,68.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,4,Patchy rain nearby,13.8,0,70,92.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,4,Clear ,18.4,0,0,66.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,4,Clear ,11.7,0,0,71.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,5,Patchy rain nearby,13.3,1,83,88.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,5,Clear ,18.0,0,0,65.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,5,Clear ,11.4,0,0,73.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,6,Patchy light drizzle,13.0,1,100,86.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,6,Clear ,11.2,0,0,74.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,6,Clear ,17.8,0,0,63.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,7,Clear ,11.0,0,0,75.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,7,Clear ,17.8,0,0,60.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,7,Partly Cloudy ,12.9,0,0,87.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,8,Sunny,11.5,0,0,74.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,8,Sunny,18.3,0,0,58.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,8,Sunny,13.2,0,0,85.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,9,Sunny,13.5,0,0,68.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,9,Sunny,20.2,0,0,53.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,9,Sunny,14.2,0,0,78.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,10,Sunny,15.3,0,0,66.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,10,Sunny,15.4,0,0,63.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,10,Sunny,22.3,0,0,47.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,11,Partly Cloudy ,17.1,0,0,59.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,11,Sunny,16.8,0,0,60.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,11,Sunny,24.5,0,0,43.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,12,Sunny,18.3,0,0,55.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,12,Patchy rain nearby,18.3,1,81,56.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,12,Sunny,26.4,0,0,44.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,13,Sunny,19.2,0,0,53.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,13,Sunny,19.6,0,0,51.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,13,Sunny,28.3,0,0,58.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,14,Partly Cloudy ,20.2,0,0,47.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,14,Partly Cloudy ,19.9,0,0,50.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,14,Partly Cloudy ,29.1,0,0,48.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,15,Partly Cloudy ,20.6,0,0,46.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,15,Sunny,30.0,0,0,46.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,15,Sunny,20.1,0,0,48.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,16,Patchy rain nearby,30.5,1,100,47.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,16,Patchy rain nearby,20.5,0,64,48.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,16,Sunny,19.8,0,0,50.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,17,Light rain shower,26.9,1,100,67.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,17,Sunny,19.2,0,0,53.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,17,Patchy rain nearby,19.5,0,64,57.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,18,Sunny,18.4,0,0,59.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,18,Patchy rain nearby,18.3,0,70,62.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,18,Patchy rain nearby,25.1,1,100,79.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,19,Patchy rain nearby,24.4,1,100,83.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,19,Clear ,17.1,0,0,66.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,19,Patchy rain nearby,17.0,1,75,64.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,20,Clear ,16.7,0,0,69.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,20,Partly Cloudy ,17.0,0,0,61.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,20,Light rain shower,23.0,1,100,91.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,21,Light rain shower,22.6,1,100,94.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,21,Clear ,16.4,0,0,71.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,21,Partly Cloudy ,16.4,0,0,63.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,22,Clear ,16.4,0,0,72.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,22,Moderate or heavy rain shower,19.2,1,100,93.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,22,Clear ,15.7,0,0,67.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-31,23,Clear ,14.7,0,0,67.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-03-30,23,Light rain shower,16.0,1,100,94.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16
+2025-04-01,23,Clear ,16.5,0,0,72.0,Buenos Aires,Distrito Federal,Argentina,-34.5875,-58.6725,2025-03-30 13:16

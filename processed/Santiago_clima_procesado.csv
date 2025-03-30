@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Clear ,16.7,0,0,57.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,0,Clear ,12.2,0,0,27.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,0,Clear ,11.0,0,0,75.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,1,Clear ,16.0,0,0,59.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,1,Clear ,11.7,0,0,27.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,1,Clear ,10.5,0,0,73.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,2,Clear ,15.3,0,0,61.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,2,Clear ,11.4,0,0,27.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,2,Clear ,10.3,0,0,69.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,3,Clear ,11.0,0,0,28.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,3,Clear ,9.9,0,0,64.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,3,Clear ,14.8,0,0,62.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,4,Clear ,9.3,0,0,59.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,4,Clear ,14.5,0,0,62.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,4,Clear ,10.6,0,0,28.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,5,Clear ,8.6,0,0,55.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,5,Clear ,14.4,0,0,61.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,5,Clear ,10.4,0,0,28.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,6,Clear ,8.0,0,0,52.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,6,Clear ,10.4,0,0,28.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,6,Clear ,14.6,0,0,61.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,7,Partly Cloudy ,10.4,0,0,28.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,7,Clear ,14.8,0,0,64.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,7,Clear ,7.5,0,0,48.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,8,Overcast ,13.9,0,0,26.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,8,Partly Cloudy ,15.0,0,0,63.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,8,Overcast ,11.3,0,0,41.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,9,Overcast ,17.5,0,0,23.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,9,Patchy rain nearby,14.9,1,81,63.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,9,Overcast ,14.7,0,0,33.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,10,Overcast ,16.4,0,0,27.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,10,Sunny,18.9,0,0,21.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,10,Patchy rain nearby,14.5,1,78,63.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,11,Sunny,20.0,0,0,20.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,11,Overcast ,18.2,0,0,21.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,11,Patchy rain nearby,14.0,0,62,67.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,12,Sunny,20.2,0,0,16.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,12,Sunny,21.7,0,0,17.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,12,Patchy rain nearby,13.4,1,100,73.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,13,Sunny,22.7,0,0,16.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,13,Sunny,22.2,0,0,13.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,13,Moderate rain,12.2,1,100,88.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,14,Sunny,23.5,0,0,11.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,14,Sunny,22.6,0,0,17.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,14,Patchy rain nearby,12.4,1,100,82.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,15,Sunny,24.3,0,0,10.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,15,Patchy rain nearby,13.3,1,100,75.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,15,Overcast ,22.9,0,0,17.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,16,Patchy rain nearby,14.0,1,100,70.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,16,Sunny,24.4,0,0,10.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,16,Overcast ,23.2,0,0,16.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,17,Patchy rain nearby,15.0,1,74,65.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,17,Sunny,22.8,0,0,18.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,17,Sunny,23.8,0,0,12.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,18,Sunny,21.6,0,0,21.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,18,Sunny,22.2,0,0,16.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,18,Sunny,14.9,0,0,66.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,19,Sunny,13.5,0,0,72.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,19,Sunny,17.2,0,0,26.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,19,Sunny,17.4,0,0,21.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,20,Clear ,15.8,0,0,28.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,20,Clear ,15.8,0,0,23.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,20,Clear ,12.7,0,0,75.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,21,Clear ,12.3,0,0,75.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,21,Clear ,15.5,0,0,36.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,21,Clear ,14.6,0,0,25.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,22,Clear ,14.6,0,0,38.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,22,Clear ,11.6,0,0,75.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,22,Clear ,13.6,0,0,26.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-31,23,Clear ,12.8,0,0,27.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-03-30,23,Clear ,11.3,0,0,75.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16
+2025-04-01,23,Clear ,13.5,0,0,35.0,Santiago,Region Metropolitana,Chile,-33.45,-70.6667,2025-03-30 13:16

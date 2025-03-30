@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Clear ,17.1,0,0,75.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,0,Patchy rain nearby,19.4,1,100,71.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,0,Patchy rain nearby,16.9,1,100,86.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,1,Clear ,16.1,0,0,81.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,1,Patchy rain nearby,18.6,1,100,75.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,1,Patchy rain nearby,16.4,1,71,87.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,2,Clear ,15.3,0,0,84.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,2,Patchy rain nearby,17.8,1,83,78.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,2,Partly Cloudy ,16.0,0,0,90.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,3,Partly Cloudy ,17.2,0,0,81.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,3,Partly Cloudy ,15.7,0,0,91.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,3,Clear ,14.8,0,0,87.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,4,Clear ,15.4,0,0,92.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,4,Partly Cloudy ,14.4,0,0,89.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,4,Partly Cloudy ,16.7,0,0,83.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,5,Partly Cloudy ,15.2,0,0,93.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,5,Clear ,14.2,0,0,90.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,5,Partly Cloudy ,16.6,0,0,83.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,6,Partly Cloudy ,17.9,0,0,94.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,6,Partly Cloudy ,18.5,0,0,82.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,6,Sunny,16.8,0,0,91.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,7,Sunny,20.7,0,0,74.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,7,Sunny,19.7,0,0,77.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,7,Partly Cloudy ,20.9,0,0,79.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,8,Sunny,23.4,0,0,63.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,8,Sunny,22.7,0,0,63.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,8,Partly Cloudy ,23.8,0,0,65.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,9,Sunny,25.9,0,0,51.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,9,Sunny,25.3,0,0,52.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,9,Patchy rain nearby,26.5,1,84,53.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,10,Patchy rain nearby,28.8,1,87,43.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,10,Sunny,28.1,0,0,41.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,10,Partly cloudy,27.1,0,0,51.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,11,Partly Cloudy ,29.8,0,0,32.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,11,Partly Cloudy ,30.6,0,0,34.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,11,Sunny,29.3,0,0,35.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,12,Sunny,31.5,0,0,29.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,12,Sunny,31.0,0,0,28.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,12,Sunny,30.4,0,0,29.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,13,Sunny,31.8,0,0,24.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,13,Sunny,31.3,0,0,28.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,13,Sunny,31.1,0,0,27.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,14,Sunny,30.9,0,0,32.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,14,Sunny,31.9,0,0,22.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,14,Sunny,30.9,0,0,27.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,15,Sunny,30.5,0,0,35.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,15,Sunny,29.8,0,0,29.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,15,Sunny,31.4,0,0,22.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,16,Sunny,28.3,0,0,36.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,16,Sunny,29.1,0,0,37.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,16,Sunny,30.0,0,0,25.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,17,Partly Cloudy ,26.6,0,0,45.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,17,Sunny,27.7,0,0,33.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,17,Patchy rain nearby,26.3,0,57,45.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,18,Sunny,25.2,0,0,42.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,18,Light rain shower,23.7,1,100,63.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,18,Partly Cloudy ,24.9,0,0,52.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,19,Partly Cloudy ,22.8,0,0,55.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,19,Patchy rain nearby,25.0,1,85,48.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,19,Patchy rain nearby,22.3,1,100,67.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,20,Patchy rain nearby,22.7,0,66,55.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,20,Patchy rain nearby,21.4,1,100,67.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,20,Clear ,20.7,0,0,60.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,21,Patchy rain nearby,19.3,1,86,70.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,21,Patchy rain nearby,19.7,1,85,60.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,21,Patchy rain nearby,20.9,1,100,69.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,22,Clear ,19.5,0,0,62.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,22,Patchy rain nearby,18.2,0,63,77.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,22,Patchy rain nearby,20.5,1,100,68.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-31,23,Patchy rain nearby,20.1,1,100,69.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-03-30,23,Patchy rain nearby,17.5,1,71,83.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16
+2025-04-01,23,Clear ,18.4,0,0,66.0,Tegucigalpa,Francisco Morazan,Honduras,14.1,-87.2167,2025-03-30 10:16

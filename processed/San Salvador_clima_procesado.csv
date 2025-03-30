@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Patchy light rain,23.2,1,100,83.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,0,Patchy rain nearby,22.2,1,100,90.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,0,Partly Cloudy ,22.7,0,0,85.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,1,Patchy rain nearby,23.1,1,100,83.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,1,Patchy rain nearby,22.1,1,100,89.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,1,Patchy rain nearby,22.6,1,73,86.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,2,Patchy rain nearby,22.9,1,100,85.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,2,Patchy light drizzle,22.0,1,100,89.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,2,Light rain shower,22.6,1,100,87.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,3,Partly Cloudy ,21.9,0,0,90.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,3,Light rain shower,22.4,1,100,86.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,3,Patchy rain nearby,22.7,0,69,87.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,4,Partly Cloudy ,22.2,0,0,87.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,4,Patchy rain nearby,22.5,1,100,88.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,4,Partly Cloudy ,21.8,0,0,91.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,5,Cloudy ,21.9,0,0,89.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,5,Light rain shower,22.4,1,100,89.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,5,Patchy rain nearby,21.7,1,100,92.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,6,Partly Cloudy ,22.2,0,0,91.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,6,Patchy light drizzle,22.5,1,100,93.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,6,Patchy rain nearby,22.5,0,70,89.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,7,Light rain shower,23.5,1,100,83.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,7,Patchy rain nearby,23.7,1,85,83.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,7,Patchy rain nearby,23.8,1,84,82.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,8,Patchy light rain,24.9,1,100,74.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,8,Patchy rain nearby,25.4,1,100,71.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,8,Partly Cloudy ,25.8,0,0,69.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,9,Light rain shower,26.0,1,100,65.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,9,Patchy rain nearby,27.2,1,87,60.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,9,Patchy rain nearby,27.8,1,86,57.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,10,Patchy rain nearby,29.2,1,100,50.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,10,Patchy rain nearby,26.8,1,100,62.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,10,Partly cloudy,29.1,1,86,62.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,11,Light rain shower,27.0,1,100,61.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,11,Patchy rain nearby,29.0,1,100,47.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,11,Patchy rain nearby,29.5,1,100,47.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,12,Patchy rain nearby,28.4,1,100,51.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,12,Patchy light rain,27.4,1,100,63.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,12,Patchy light drizzle,28.8,1,100,47.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,13,Patchy light drizzle,27.6,1,100,60.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,13,Patchy rain nearby,28.6,1,100,55.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,13,Patchy rain nearby,28.5,1,100,54.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,14,Sunny,29.3,0,0,53.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,14,Patchy light drizzle,27.6,1,100,59.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,14,Partly Cloudy ,28.6,0,0,55.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,15,Sunny,29.1,0,0,48.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,15,Sunny,28.6,0,0,54.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,15,Patchy rain nearby,27.4,1,83,60.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,16,Sunny,27.9,0,0,54.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,16,Sunny,28.1,0,0,52.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,16,Patchy rain nearby,26.8,0,69,62.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,17,Sunny,26.5,0,0,60.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,17,Sunny,25.6,0,0,66.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,17,Sunny,26.4,0,0,59.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,18,Patchy rain nearby,24.6,1,100,79.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,18,Sunny,25.0,0,0,70.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,18,Partly Cloudy ,25.2,0,0,70.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,19,Patchy rain nearby,24.2,1,100,76.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,19,Patchy rain nearby,24.2,1,81,84.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,19,Patchy rain nearby,23.9,1,100,76.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,20,Patchy rain nearby,23.4,1,100,88.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,20,Patchy rain nearby,23.2,1,100,82.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,20,Partly Cloudy ,23.6,0,0,79.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,21,Partly Cloudy ,23.2,0,0,82.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,21,Patchy rain nearby,22.4,1,100,91.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,21,Patchy rain nearby,22.7,1,100,85.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,22,Patchy rain nearby,22.7,1,100,92.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,22,Partly Cloudy ,23.0,0,0,84.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,22,Patchy rain nearby,22.5,0,66,88.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-31,23,Light rain shower,22.3,1,100,89.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-03-30,23,Partly Cloudy ,22.8,0,0,85.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16
+2025-04-01,23,Partly Cloudy ,22.6,0,0,92.0,San Salvador,San Salvador,El Salvador,13.7086,-89.2031,2025-03-30 10:16

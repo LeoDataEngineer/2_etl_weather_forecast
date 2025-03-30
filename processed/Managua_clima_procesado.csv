@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Clear ,25.4,0,0,72.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,0,Partly Cloudy ,25.0,0,0,73.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,0,Clear ,25.3,0,0,71.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,1,Clear ,24.9,0,0,73.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,1,Clear ,24.8,0,0,74.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,1,Clear ,24.9,0,0,71.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,2,Clear ,24.6,0,0,75.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,2,Clear ,24.4,0,0,72.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,2,Clear ,24.6,0,0,70.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,3,Clear ,24.2,0,0,72.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,3,Clear ,24.4,0,0,72.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,3,Clear ,24.1,0,0,78.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,4,Clear ,24.1,0,0,74.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,4,Clear ,23.6,0,0,80.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,4,Clear ,23.8,0,0,73.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,5,Clear ,23.8,0,0,75.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,5,Clear ,23.2,0,0,82.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,5,Clear ,23.6,0,0,76.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,6,Sunny,23.8,0,0,78.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,6,Sunny,23.7,0,0,78.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,6,Sunny,23.1,0,0,83.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,7,Sunny,25.2,0,0,74.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,7,Sunny,24.9,0,0,77.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,7,Sunny,25.6,0,0,73.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,8,Sunny,26.9,0,0,66.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,8,Sunny,26.6,0,0,67.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,8,Sunny,27.5,0,0,64.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,9,Partly Cloudy ,29.0,0,0,53.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,9,Sunny,28.5,0,0,58.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,9,Sunny,29.4,0,0,56.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,10,Sunny,31.2,0,0,48.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,10,Partly Cloudy ,31.2,0,0,44.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,10,Partly cloudy,31.2,0,0,59.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,11,Sunny,32.7,0,0,40.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,11,Sunny,32.7,0,0,43.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,11,Sunny,32.3,0,0,44.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,12,Sunny,33.9,0,0,39.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,12,Sunny,33.9,0,0,37.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,12,Sunny,33.6,0,0,40.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,13,Sunny,34.5,0,0,35.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,13,Sunny,34.8,0,0,36.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,13,Sunny,34.7,0,0,37.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,14,Sunny,35.2,0,0,35.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,14,Sunny,34.8,0,0,33.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,14,Sunny,35.2,0,0,36.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,15,Sunny,35.3,0,0,34.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,15,Sunny,35.2,0,0,36.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,15,Sunny,35.1,0,0,33.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,16,Sunny,34.0,0,0,40.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,16,Sunny,34.8,0,0,35.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,16,Sunny,35.3,0,0,32.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,17,Sunny,32.0,0,0,47.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,17,Sunny,34.2,0,0,36.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,17,Partly Cloudy ,33.4,0,0,40.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,18,Clear ,32.0,0,0,44.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,18,Cloudy ,30.2,0,0,52.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,18,Patchy rain nearby,30.2,1,82,54.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,19,Clear ,29.2,0,0,58.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,19,Clear ,29.7,0,0,43.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,19,Cloudy ,29.3,0,0,56.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,20,Clear ,28.4,0,0,46.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,20,Partly Cloudy ,29.5,0,0,56.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,20,Partly Cloudy ,28.6,0,0,60.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,21,Clear ,28.7,0,0,60.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,21,Clear ,28.1,0,0,54.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,21,Clear ,29.5,0,0,55.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,22,Clear ,27.7,0,0,56.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,22,Clear ,27.8,0,0,62.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,22,Partly Cloudy ,28.3,0,0,60.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-31,23,Partly Cloudy ,26.8,0,0,68.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-03-30,23,Clear ,26.0,0,0,67.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16
+2025-04-01,23,Clear ,26.3,0,0,61.0,Managua,Managua,Nicaragua,12.1508,-86.2683,2025-03-30 10:16

@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Partly Cloudy ,19.2,0,0,84.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,0,Clear ,18.7,0,0,80.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,0,Clear ,20.4,0,0,86.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,1,Clear ,18.4,0,0,88.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,1,Clear ,18.2,0,0,83.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,1,Clear ,19.2,0,0,86.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,2,Clear ,17.8,0,0,90.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,2,Clear ,17.9,0,0,84.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,2,Clear ,18.3,0,0,89.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,3,Clear ,17.7,0,0,85.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,3,Clear ,17.7,0,0,91.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,3,Clear ,17.4,0,0,91.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,4,Clear ,18.8,0,0,93.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,4,Clear ,17.0,0,0,91.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,4,Clear ,19.0,0,0,86.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,5,Clear ,20.1,0,0,85.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,5,Clear ,16.7,0,0,92.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,5,Clear ,20.3,0,0,81.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,6,Clear ,21.5,0,0,81.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,6,Clear ,21.7,0,0,78.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,6,Clear ,19.7,0,0,93.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,7,Sunny,24.3,0,0,76.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,7,Sunny,23.5,0,0,79.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,7,Partly Cloudy ,24.0,0,0,77.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,8,Sunny,26.5,0,0,58.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,8,Sunny,26.1,0,0,61.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,8,Partly Cloudy ,26.2,0,0,58.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,9,Sunny,28.6,0,0,50.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,9,Sunny,27.5,0,0,57.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,9,Partly Cloudy ,28.3,0,0,48.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,10,Sunny,29.2,0,0,38.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,10,Partly Cloudy ,30.0,0,0,41.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,10,Sunny,30.0,0,0,54.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,11,Partly Cloudy ,30.8,0,0,43.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,11,Sunny,29.6,0,0,43.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,11,Sunny,32.1,0,0,43.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,12,Partly Cloudy ,29.7,0,0,45.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,12,Partly Cloudy ,31.5,0,0,45.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,12,Partly cloudy,33.2,0,0,44.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,13,Partly Cloudy ,31.2,0,0,46.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,13,Partly Cloudy ,29.6,0,0,47.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,13,Partly Cloudy ,32.6,0,0,52.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,14,Partly Cloudy ,29.4,0,0,51.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,14,Partly Cloudy ,30.8,0,0,50.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,14,Sunny,33.1,0,0,37.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,15,Partly Cloudy ,29.2,0,0,52.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,15,Sunny,31.8,0,0,45.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,15,Partly Cloudy ,30.4,0,0,53.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,16,Sunny,29.5,0,0,67.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,16,Sunny,28.0,0,0,54.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,16,Partly Cloudy ,29.1,0,0,55.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,17,Partly Cloudy ,27.8,0,0,67.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,17,Partly Cloudy ,27.9,0,0,64.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,17,Sunny,26.8,0,0,65.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,18,Partly Cloudy ,26.7,0,0,68.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,18,Sunny,25.7,0,0,70.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,18,Partly Cloudy ,26.5,0,0,79.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,19,Partly Cloudy ,25.5,0,0,85.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,19,Partly Cloudy ,24.8,0,0,72.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,19,Sunny,23.8,0,0,76.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,20,Partly Cloudy ,24.2,0,0,68.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,20,Clear ,22.1,0,0,74.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,20,Partly Cloudy ,24.8,0,0,77.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,21,Partly Cloudy ,24.0,0,0,78.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,21,Partly Cloudy ,23.0,0,0,66.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,21,Clear ,20.7,0,0,73.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,22,Clear ,20.1,0,0,65.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,22,Partly Cloudy ,22.8,0,0,76.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,22,Clear ,20.4,0,0,72.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-31,23,Clear ,19.4,0,0,80.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-03-30,23,Clear ,21.9,0,0,84.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16
+2025-04-01,23,Clear ,21.0,0,0,77.0,Port-Au-Prince,Ouest,Haiti,18.5392,-72.335,2025-03-30 12:16

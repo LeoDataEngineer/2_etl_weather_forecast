@@ -1,0 +1,73 @@
+Fecha,Hora,Condicion,Temperatura,Lluvia,Prob_lluvia,Humedad,Ciudad,Region,Pais,Latitud,Longitud,Fecha_Hora_local
+2025-03-30,0,Partly Cloudy ,25.3,0,0,85.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,0,Clear ,23.4,0,0,89.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,0,Clear ,24.0,0,0,90.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,1,Partly Cloudy ,25.3,0,0,86.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,1,Clear ,23.1,0,0,90.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,1,Clear ,23.9,0,0,90.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,2,Patchy rain nearby,25.0,0,64,88.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,2,Clear ,23.0,0,0,90.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,2,Clear ,23.6,0,0,90.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,3,Clear ,22.9,0,0,89.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,3,Clear ,23.6,0,0,90.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,3,Patchy rain nearby,24.5,1,80,91.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,4,Clear ,23.5,0,0,90.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,4,Partly Cloudy ,24.3,0,0,92.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,4,Clear ,22.7,0,0,88.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,5,Clear ,23.5,0,0,91.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,5,Cloudy ,24.5,0,0,91.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,5,Clear ,22.6,0,0,89.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,6,Clear ,23.4,0,0,91.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,6,Clear ,22.5,0,0,89.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,6,Patchy rain nearby,24.9,0,69,88.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,7,Sunny,23.4,0,0,85.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,7,Patchy rain nearby,25.5,1,86,85.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,7,Sunny,24.3,0,0,87.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,8,Sunny,26.2,0,0,71.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,8,Patchy rain nearby,26.7,1,100,79.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,8,Sunny,26.6,0,0,76.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,9,Sunny,28.5,0,0,61.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,9,Patchy rain nearby,28.8,1,74,68.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,9,Partly Cloudy ,28.7,0,0,66.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,10,Patchy rain nearby,30.4,1,100,59.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,10,Partly Cloudy ,30.4,0,0,56.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,10,Patchy rain nearby,30.4,1,100,61.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,11,Sunny,31.9,0,0,50.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,11,Patchy rain nearby,30.9,1,100,57.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,11,Partly cloudy,28.1,1,100,79.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,12,Patchy rain nearby,30.3,0,62,58.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,12,Partly Cloudy ,32.6,0,0,48.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,12,Light rain shower,31.3,1,100,57.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,13,Partly Cloudy ,32.6,0,0,48.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,13,Patchy rain nearby,29.1,0,62,64.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,13,Light rain shower,30.1,1,100,63.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,14,Patchy rain nearby,29.0,1,86,64.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,14,Partly Cloudy ,32.6,0,0,48.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,14,Patchy rain nearby,29.2,1,100,68.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,15,Patchy rain nearby,30.5,0,60,58.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,15,Patchy rain nearby,29.8,1,100,65.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,15,Partly Cloudy ,31.5,0,0,51.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,16,Patchy rain nearby,29.9,1,100,64.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,16,Cloudy ,30.2,0,0,58.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,16,Partly Cloudy ,30.9,0,0,53.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,17,Patchy rain nearby,29.3,1,100,67.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,17,Cloudy ,30.1,0,0,57.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,17,Patchy rain nearby,29.2,1,100,63.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,18,Patchy rain nearby,28.8,1,86,62.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,18,Patchy rain nearby,27.9,1,100,68.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,18,Patchy rain nearby,28.2,1,100,71.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,19,Patchy rain nearby,27.1,0,66,74.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,19,Patchy rain nearby,26.7,1,71,72.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,19,Partly Cloudy ,26.6,0,0,72.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,20,Partly Cloudy ,25.7,0,55,78.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,20,Clear ,25.3,0,0,79.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,20,Clear ,25.9,0,0,78.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,21,Clear ,24.8,0,0,83.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,21,Patchy rain nearby,25.0,0,28,82.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,21,Clear ,24.2,0,0,83.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,22,Clear ,24.2,0,0,86.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,22,Clear ,24.6,0,0,86.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,22,Clear ,23.7,0,0,86.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-31,23,Clear ,23.6,0,0,88.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-03-30,23,Clear ,24.3,0,0,88.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
+2025-04-01,23,Clear ,24.3,0,0,88.0,Panama City,Panama,Panama,8.9667,-79.5333,2025-03-30 11:13
