@@ -32,7 +32,7 @@ jobs:
           name: raw_data
           path: raw/*.json  
 
-  process:
+  processed:
     runs-on: ubuntu-latest
     needs: extract  # Se ejecuta después del job 'extract'
     steps:
