@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 from sqlalchemy import create_engine, text
-from config import USER, PASSWORD, HOST, PORT, DATABASE
+#from config import USER, PASSWORD, HOST, PORT, DATABASE
 
 USER = os.environ['USER']
 PASSWORD = os.environ['PASSWORD']
