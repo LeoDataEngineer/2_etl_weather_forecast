@@ -1,7 +1,7 @@
 import requests
 import json
 import os
-from config import *
+# from config import *
 
 # Credenciales API guardadas en github en sus variables de entorno
 API_KEY_WAPI = os.environ['API_KEY_WAPI']
