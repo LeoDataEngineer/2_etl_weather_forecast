@@ -3,7 +3,7 @@ name: Extract, Processed, Modeling_data, Load
 on:
   schedule:
     # Ejecuta cada hora
-    - cron: '0 * * * *'
+    #- cron: '0 * * * *'
   
   workflow_dispatch:
 
