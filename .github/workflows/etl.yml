@@ -1,7 +1,7 @@
 name: Extract, Processed, Modeling_data, Load
 
 on:
-  schedule:
+  #schedule:
     # Ejecuta cada hora
     #- cron: '0 * * * *'
   
