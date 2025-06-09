@@ -36,6 +36,6 @@ La solución emplea Python y GitHub Actions para la ejecución automática del f
 ### Diseño del modelado de  los datos OLAP esquema Estrella.
 ![Diseño del modelado de  los datos OLAP esquema Estrella](imagen/weather-modeling.png)
 
-## Diseño del dashboard de Looker Studio (En Constrcción)
+## Diseño del dashboard de Looker Studio (En Constrcción).
 
 ## Nota: Todas las variables de entorno(secretos, credenciales, api_key) están guardadas en el Environment secrets en github.
